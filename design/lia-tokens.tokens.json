@@ -1,0 +1,274 @@
+{
+  "lia/light": {
+    "background": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "foreground": {
+      "value": "#211c18",
+      "type": "color"
+    },
+    "card": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "card-foreground": {
+      "value": "#211c18",
+      "type": "color"
+    },
+    "popover": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "popover-foreground": {
+      "value": "#211c18",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#0044f9",
+      "type": "color"
+    },
+    "primary-foreground": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#a9d5f0",
+      "type": "color"
+    },
+    "secondary-foreground": {
+      "value": "#241b14",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#f4f2ea",
+      "type": "color"
+    },
+    "muted-foreground": {
+      "value": "#7f7261",
+      "type": "color"
+    },
+    "accent": {
+      "value": "#fffb90",
+      "type": "color"
+    },
+    "accent-foreground": {
+      "value": "#241b14",
+      "type": "color"
+    },
+    "destructive": {
+      "value": "#df2224",
+      "type": "color"
+    },
+    "border": {
+      "value": "#e7e4dd",
+      "type": "color"
+    },
+    "input": {
+      "value": "#e7e4dd",
+      "type": "color"
+    },
+    "ring": {
+      "value": "#0044f9",
+      "type": "color"
+    },
+    "chart-1": {
+      "value": "#0044f9",
+      "type": "color"
+    },
+    "chart-2": {
+      "value": "#a9d5f0",
+      "type": "color"
+    },
+    "chart-3": {
+      "value": "#fffb90",
+      "type": "color"
+    },
+    "chart-4": {
+      "value": "#241b14",
+      "type": "color"
+    },
+    "chart-5": {
+      "value": "#7e6e5f",
+      "type": "color"
+    },
+    "sidebar": {
+      "value": "#f4f2ea",
+      "type": "color"
+    },
+    "sidebar-foreground": {
+      "value": "#211c18",
+      "type": "color"
+    },
+    "sidebar-primary": {
+      "value": "#0044f9",
+      "type": "color"
+    },
+    "sidebar-primary-foreground": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "sidebar-accent": {
+      "value": "#fffb90",
+      "type": "color"
+    },
+    "sidebar-accent-foreground": {
+      "value": "#241b14",
+      "type": "color"
+    },
+    "sidebar-border": {
+      "value": "#e7e4dd",
+      "type": "color"
+    },
+    "sidebar-ring": {
+      "value": "#0044f9",
+      "type": "color"
+    }
+  },
+  "lia/dark": {
+    "background": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "foreground": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "card": {
+      "value": "#2b2523",
+      "type": "color"
+    },
+    "card-foreground": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "popover": {
+      "value": "#2b2523",
+      "type": "color"
+    },
+    "popover-foreground": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#3c6efd",
+      "type": "color"
+    },
+    "primary-foreground": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#b3dbef",
+      "type": "color"
+    },
+    "secondary-foreground": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#2b2523",
+      "type": "color"
+    },
+    "muted-foreground": {
+      "value": "#aaa39f",
+      "type": "color"
+    },
+    "accent": {
+      "value": "#fffb90",
+      "type": "color"
+    },
+    "accent-foreground": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "destructive": {
+      "value": "#f14444",
+      "type": "color"
+    },
+    "border": {
+      "value": "#433f3a",
+      "type": "color"
+    },
+    "input": {
+      "value": "#433f3a",
+      "type": "color"
+    },
+    "ring": {
+      "value": "#3c6efd",
+      "type": "color"
+    },
+    "chart-1": {
+      "value": "#3c6efd",
+      "type": "color"
+    },
+    "chart-2": {
+      "value": "#b3dbef",
+      "type": "color"
+    },
+    "chart-3": {
+      "value": "#fffb90",
+      "type": "color"
+    },
+    "chart-4": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "chart-5": {
+      "value": "#aaa39f",
+      "type": "color"
+    },
+    "sidebar": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "sidebar-foreground": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "sidebar-primary": {
+      "value": "#3c6efd",
+      "type": "color"
+    },
+    "sidebar-primary-foreground": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "sidebar-accent": {
+      "value": "#fffb90",
+      "type": "color"
+    },
+    "sidebar-accent-foreground": {
+      "value": "#1e1916",
+      "type": "color"
+    },
+    "sidebar-border": {
+      "value": "#433f3a",
+      "type": "color"
+    },
+    "sidebar-ring": {
+      "value": "#3c6efd",
+      "type": "color"
+    }
+  },
+  "$themes": [
+    {
+      "name": "Lia Light",
+      "selectedTokenSets": {
+        "lia/light": "enabled"
+      }
+    },
+    {
+      "name": "Lia Dark",
+      "selectedTokenSets": {
+        "lia/dark": "enabled"
+      }
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "lia/light",
+      "lia/dark"
+    ]
+  }
+}
